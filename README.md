@@ -10,6 +10,13 @@
 
 <img width="1163" height="679" alt="image" src="https://github.com/user-attachments/assets/c9d987da-1ae1-43f0-9540-c1b30aec3034" />
 
+important files:
+1. hackathon.db -> sqlite3 database storing the churn dataset
+2. hclHackathon.csv -> the dataset we used for regression analysis
+3. churn_modelling.csv -> the dataset used for predicting whether customer will churn or not? (Although classification problem was not asked, as regression dataset was faulty so one of the supervisors suggested we do classification analysis as a side project) with mentioning problems occured.
+
+## SQL preprocessing
+
 ## 1. Column Renaming
 Many column names contained spaces or special characters. They were renamed for readability and ML compatibility.
 
@@ -63,7 +70,7 @@ Converted Annual→12, Quarterly→3, Monthly→1.
 ## Conclusion
 Dataset is now clean, encoded, and fully machine-learning-ready.
 =======
-### EDA and Regression 
+### EDA and Regression (see EDA.ipynb)
 Data cleaning and preprocessing
 Univariate and bivariate analysis
 Correlation and feature relationship studies
@@ -320,7 +327,7 @@ The dataset provides meaningful signals for churn classification, but insufficie
  - The eda and the training part was similar to that of EDA.ipynb
 
 
-## Classification analysis
+## Classification analysis(see ANN.ipynb in classification_analysis folder)
 
 We also tried to predict whether the customer would churn or not using ANN classification analysis. The data preprocessing was done based on the ideation file. The neural network parameters summary is as follows:
 model: "sequential"
@@ -342,7 +349,7 @@ model: "sequential"
 <img width="1319" height="491" alt="image" src="https://github.com/user-attachments/assets/536dea9d-3f21-4a49-9ba9-581b7c4fc30e" />
 
 ============================
-Web Display description using react and fastapi of the first regressive model
+Web Display description using react and fastapi of the first regressive model( see app.css, app.jsx for frontend and app.py for backend code)
 
 W# Backend README (Flask + XGBoost)
 
