@@ -3,4 +3,4 @@
 ##Team members
 Vansh Vij
 Atharva Patil
-Ramkishan Suttar
+Ramkishan Suthar
