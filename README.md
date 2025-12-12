@@ -274,7 +274,7 @@ Guides business actions such as improving weaker subscription plans.
 
 Reason for the Low R² Score in Tenure Prediction
 
-The regression models produced a low R² score, and this is consistent with EDA findings:
+The regression models produced a low R² score(0.0074), and this is consistent with EDA findings:
 
 1. Weak Correlation Between Features and Tenure
 
