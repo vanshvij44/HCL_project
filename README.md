@@ -457,3 +457,5 @@ my-react-app/
 - `POST /predict_churn` (if added) → Predict churn  
 
 
+![WhatsApp Image 2025-12-12 at 20 04 31_3d666a10](https://github.com/user-attachments/assets/206cdbf3-d3b5-454e-8e42-12ac761c8bcb)
+![WhatsApp Image 2025-12-12 at 20 04 31_194febe1](https://github.com/user-attachments/assets/a1c3804f-c603-4d4c-b46d-caa06a7410b5)
