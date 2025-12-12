@@ -32,13 +32,13 @@ Classification (Predicting Churn) displays clearer feature influence than regres
 
 4. Feature Engineering
 The following engineered variables were created to enhance modeling:
-Engagement Score
+Engagement Score=
 Usage Frequency + Total Spend – Payment Delay – Support Calls
 
-Risk Score
+Risk Score=
 Payment Delay + Support Calls – Last Interaction
 
-Spend Per Month
+Spend Per Month=
 Total Spend / Contract Length
 
 Encoded categorical variables for Subscription Type, Contract Type, and Gender
