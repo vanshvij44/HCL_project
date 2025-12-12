@@ -1,6 +1,7 @@
 # HCL_project
 
 ## Team members
-Vansh Vij
-Atharva Patil
-Ramkishan Suthar
+
+### Vansh Vij
+### Atharva Patil
+### Ramkishan Suthar
