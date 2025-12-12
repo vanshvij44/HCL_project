@@ -7,6 +7,9 @@
 ### Ramkishan Suthar
 ## Project Overview
 
+
+<img width="1163" height="679" alt="image" src="https://github.com/user-attachments/assets/c9d987da-1ae1-43f0-9540-c1b30aec3034" />
+
 ## 1. Column Renaming
 Many column names contained spaces or special characters. They were renamed for readability and ML compatibility.
 
