@@ -32,6 +32,8 @@ Classification (Predicting Churn) displays clearer feature influence than regres
 
 4. Feature Engineering
 The following engineered variables were created to enhance modeling:
+
+
 Engagement Score=
 Usage Frequency + Total Spend – Payment Delay – Support Calls
 
