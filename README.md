@@ -337,8 +337,9 @@ model: "sequential"
  Trainable params: 2,945 (11.50 KB)
  Non-trainable params: 0 (0.00 B)
  
- Then the model was hosted on streamlit.
+ Then the classification model was hosted on streamlit.
 ![alt text](image-2.png)
+<img width="1319" height="491" alt="image" src="https://github.com/user-attachments/assets/536dea9d-3f21-4a49-9ba9-581b7c4fc30e" />
 
 ============================
 Web Display description using react and fastapi
