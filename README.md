@@ -342,7 +342,7 @@ model: "sequential"
 <img width="1319" height="491" alt="image" src="https://github.com/user-attachments/assets/536dea9d-3f21-4a49-9ba9-581b7c4fc30e" />
 
 ============================
-Web Display description using react and fastapi
+Web Display description using react and fastapi of the first regressive model
 
 W# Backend README (Flask + XGBoost)
 
